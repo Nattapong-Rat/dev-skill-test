@@ -5,11 +5,6 @@ This is an exam project for candidates.
 We use **React** for the frontend and **Express** for the backend.
 
 ---
-
-## Assignment
-
-Create a new page to display selected country tags.
-
 ![Alt text](./frontend/public/TableWithoutTag.png)
 ![Alt text](./frontend/public/TableWithTags.png)
 
