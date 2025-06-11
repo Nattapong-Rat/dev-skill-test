@@ -27,6 +27,15 @@ Create a new page to display selected country tags.
 4. A user can change pages in the country list.  
    **Expectation:** The new results should be shown, and the selected tags should remain.
 
+5. A user can create a new country by clicking `+ Country`
+   **Expectation:** Open a modal or a new page where the user can add a new country to the countries list. (You can design this page freely.)
+
+6. A user can edit a country.
+   **Expectation:** Open the same modal/page used for creating a new country, allowing the user to edit and update the details.
+
+7. A user can delete a country.
+   **Expectation:** Show a confirmation popup, and if confirmed, delete the country from the countries list.
+
    <span style="color:red">Note: Style and design are not important. Please do them last, they can give you extra points</span>.
 
 ### Backend
